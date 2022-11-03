@@ -1,0 +1,17 @@
+OOP: Object Oriented Programming
+
+- Factory Functions
+- Object.create()
+- Contructor Functions
+- Classes
+
+
+4 PILLARS OF OOP
+• Encapsulation - Organizes code into containers that relate to each other and makes 
+it easier to maintain and reuse.
+• Abstraction - Hides the complexity from the user by doing the method calculations 
+behind the scenes.
+• Inheritance - Gives the properties of a class to another class, keeping code DRY and 
+saving on memory space.
+• Polymorphism - The ability of an object to take on many forms allowing methods to 
+be used differently by different classes.
